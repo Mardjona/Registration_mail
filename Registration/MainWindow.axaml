@@ -81,6 +81,7 @@
                         BorderBrush="#A9A9A9"
                         Height="35"  
                         Width="90">
+                        
                         "День"
                         MaxDropDownHeight="100">
                         <ComboBoxItem>1</ComboBoxItem>
