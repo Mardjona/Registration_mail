@@ -134,6 +134,8 @@
                         <ComboBoxItem>Октябрь</ComboBoxItem>
                         <ComboBoxItem>Ноябрь</ComboBoxItem>
                         <ComboBoxItem>Декабрь</ComboBoxItem>
+                        <ComboBoxItem>Декабрь</ComboBoxItem>
+                        
                     </ComboBox>  
                     <ComboBox
                         BorderBrush="#A9A9A9"

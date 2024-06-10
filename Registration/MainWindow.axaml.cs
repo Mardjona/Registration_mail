@@ -10,12 +10,5 @@ public partial class MainWindow : Window
         InitializeComponent();
     }
 
-     // public void Flag ()
-    // {
-    //    if (ComboBoxFlags.SelectedIndex == 0)
-     //   {
-     //        MediaTypeNames.Text = "+7";
-     //   }
-      
-   //  }
+  
 }
